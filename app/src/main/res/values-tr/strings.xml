@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- General strings-->
+    <string name="No_network_connection">İnternet bağlantısı yok</string>
+    <string name="Internal_error">Bir hata oluştu. Lütfen daha sonra tekrar deneyin</string>
+    <string name="Loading">Yükleniyor …</string>
+    <string name="Retry">Tekrar Dene</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Vazgeç</string>
+    <string name="Close">Kapat</string>
+    <string name="Clear">Sil</string>
+    <string name="Undo">Geri Al</string>
+    <string name="Required_field">Gerekli Alan</string>
+    <string name="The_entries_must_match">Girdiler uyuşmalı</string>
+    <string name="Content_is_empty">İcerik boş.</string>
+
+    <!-- Strings related to splash screen -->
+    <string name="Select_shop">Mağaza seç</string>
+    <string name="Select_the_location_where_you_want_to_shop">Bölge seç \n Alışveriş yapmak istediğin yer </string>
+    <string name="Continue">Devam</string>
+
+    <!-- Main activity related -->
+    <string name="Another_click_for_leaving_app">Çıkmak için tekrar tıklayınız</string>
+    <string name="All_categories">Bütün kategoriler</string>
+    <string name="menu_action_search">Ara</string>
+    <string name="Type_your_wish">Talebini yaz</string>
+    <string name="menu_action_cart">Alışveriş kartı</string>
+    <string name="menu_action_wishlist">İstek kutusu</string>
+
+
+    <!-- Products related strings -->
+    <string name="Home">Ev</string>
+    <string name="Just_arrived">Uluştı</string>
+    <string name="No_banners">Resim yok</string>
+    <string name="Show_offers">Teklifleri göster</string>
+    <string name="FILTER">FİLTRE</string>
+    <string name="Apply">Uygula</string>
+    <string name="Restart">Yeniden başlat</string>
+    <string name="Filter_unavailable">Filitre geçersiz</string>
+    <string name="Products_not_found">Ürünler bulunamadı.</string>
+    <string name="Product_not_found">Ürün bulunamadı.</string>
+
+</resources>
