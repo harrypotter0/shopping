@@ -39,5 +39,51 @@
     <string name="Filter_unavailable">Filitre geçersiz</string>
     <string name="Products_not_found">Ürünler bulunamadı.</string>
     <string name="Product_not_found">Ürün bulunamadı.</string>
+    <string name="free">ücretsiz</string>
+
+    <!-- Format strings -->
+    <string name="format_space_prefix"> %1$s</string>
+    <string name="format_comma_prefix">, %1$s</string>
+    <string name="format_string_division">%1$s / %2$s</string>
+    <string name="format_quantity">%1$d ks</string>
+    <string name="format_string_quantity">%1$s %2$dx</string>
+    <string name="format_plus">+ %1$s</string>
+    <string name="format_number">%1$d</string>
+    <string name="format_price_range">%1$d %2$s - %3$d %4$s</string>
+    <string name="format_price_discount_percents">-%1$d %%</string>
+    <string name="All">Tümü</string>
+    <string name="Address_colon">Adres:</string>
+    <string name="content_description_background">Arkaplan</string>
+    <string name="content_description_move_left">Sola çevir</string>
+    <string name="content_description_move_right">Sağa çevir</string>
+    <string name="Log_in">Giriş yap</string>
+    <string name="Log_out">Çıkış yap</string>
+    <string name="Male">Erkek</string>
+    <string name="Max">Max</string>
+    <string name="Min">Min</string>
+    <string name="My_orders">Siparişlerim</string>
+    <string name="Name_colon">İsim</string>
+    <string name="New_password">Yeni şifre</string>
+    <string name="Lowest_price">En düşük fiyat</string>
+    <string name="Female">Kadın</string>
+    <string name="Account">Hesap</string>
+    <string name="App_needs_to_be_restarted">Mağaza değişikliği için uygulamanın yeniden başlatılması gerekiyor</string>
+    <string name="Basic_information_about_Privacy_Policy">Gizlilik politikası hakkında basit bilgiler</string>
+    <string name="Change_password">Parolayı değiştir</string>
+    <string name="Changing_the_password">Parola değiştiriliyor</string>
+    <string name="Check_your_email_we_sent_you_an_confirmation_email">E-mail ini kontrol et. Parola değişikliği ile ilgili sana e-mail gönderdik</string>
+    <string name="Choose_payment_method">Ödeme türünü seçiniz</string>
+    <string name="City">Şehir</string>
+    <string name="Delete">Sil</string>
+    <string name="E_MAIL">E-MAIL</string>
+    <string name="Edit">Düzenle</string>
+    <string name="Email">Email</string>
+    <string name="Email_colon">Email:</string>
+    <string name="Email_for_recovery">Kurtarma mail adresi</string>
+    <string name="Enter_the_discount_code">Promosyon kodunu girin</string>
+    <string name="FACEBOOK">FACEBOOK</string>
+    <string name="Facebook_login_failed">Facebook girişi başarısız oldu</string>
+    <string name="Finish_order">Siparişi bitir</string>
+    <string name="Forgot_your_password">Parolanı mı unuttun?</string>
 
 </resources>
